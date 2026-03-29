@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FlowHive App</string>
+    <string name="title_activity_main">FlowHive App</string>
+    <string name="package_name">com.flowhive.app</string>
+    <string name="custom_url_scheme">com.flowhive.app</string>
+</resources>
