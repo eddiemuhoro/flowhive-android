@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310334236298",
+    "project_id": "menu-fb",
+    "storage_bucket": "menu-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310334236298:android:930b138fbf80f05ba4ef73",
+        "android_client_info": {
+          "package_name": "com.flowhive.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qjvG8qTlBkZqDxzk85qeObozqk0obv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
